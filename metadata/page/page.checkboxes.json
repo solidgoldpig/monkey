@@ -1,0 +1,47 @@
+{
+  "_id": "page.checkboxes",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.checkboxes--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "_id": "page.checkboxes--checkboxes--checkbox.auto_name__3",
+          "_type": "checkbox",
+          "label": "Baboon",
+          "name": "auto_name__3"
+        },
+        {
+          "_id": "page.checkboxes--checkboxes--checkbox.auto_name__4",
+          "_type": "checkbox",
+          "label": "Langur",
+          "name": "auto_name__4"
+        },
+        {
+          "_id": "page.checkboxes--checkboxes--checkbox.auto_name__5",
+          "_type": "checkbox",
+          "label": "Marmoset",
+          "name": "auto_name__5"
+        },
+        {
+          "_id": "page.checkboxes--checkboxes--checkbox.auto_name__6",
+          "_type": "checkbox",
+          "label": "Spider & Howler monkeys",
+          "name": "auto_name__6"
+        },
+        {
+          "_id": "page.checkboxes--checkboxes--checkbox.auto_name__2",
+          "_type": "checkbox",
+          "label": "Vervet",
+          "name": "auto_name__2"
+        }
+      ],
+      "legend": "Which of the following are new world monkeys?",
+      "validation": {
+        "required": true
+      }
+    }
+  ],
+  "url": "checkboxes"
+}
