@@ -7,7 +7,7 @@
       "_type": "email",
       "hint": "Only bother if you want to see what the infinite army of monkeys will send you with their typewriters",
       "label": "Email address",
-      "name": "auto_name__10",
+      "name": "email",
       "validation": {
         "required": false
       }
