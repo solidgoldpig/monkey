@@ -1,8 +1,9 @@
 {
   "_id": "service",
+  "_isa": "@ministryofjustice/fb-components-core=>service",
   "_type": "config.service",
-  "name": "Service name goes here",
+  "name": "Monkeying around",
+  "pdfHeading": "The infinite monkeys typed:",
   "phase": "alpha",
-  "phaseText": "Service phase text goes here",
-  "_isa": "@ministryofjustice/fb-components-core=>service"
+  "phaseText": "Peanuts, peanuts, peanuts…"
 }
