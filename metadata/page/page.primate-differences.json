@@ -9,6 +9,31 @@
         {
           "_id": "page.primate-differences--radios.auto_name__1--radio.auto_value__1",
           "_type": "radio",
+          "conditionalComponent": {
+            "_id": "page.primate-differences--radios.auto_name__1--radio.auto_value__1--checkboxes",
+            "_type": "checkboxes",
+            "items": [
+              {
+                "_id": "page.primate-differences--radios.auto_name__1--radio.auto_value__1--checkboxes--checkbox.auto_name__7",
+                "_type": "checkbox",
+                "conditionalComponent": {
+                  "_id": "page.primate-differences--radios.auto_name__1--radio.auto_value__1--checkboxes--checkbox.auto_name__7--textarea.auto_name__9",
+                  "_type": "textarea",
+                  "label": "Provide details",
+                  "name": "auto_name__9"
+                },
+                "label": "Reason X",
+                "name": "auto_name__7"
+              },
+              {
+                "_id": "page.primate-differences--radios.auto_name__1--radio.auto_value__1--checkboxes--checkbox.auto_name__8",
+                "_type": "checkbox",
+                "label": "Reason Y",
+                "name": "auto_name__8"
+              }
+            ],
+            "legend": "Bonobos have fewer sex differences"
+          },
           "label": "Bonobos have fewer sex differences than chimps & gorillas",
           "value": "auto_value__1"
         },

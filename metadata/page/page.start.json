@@ -5,8 +5,10 @@
   "heading": "Monkeying around",
   "lede": "Simple form with test cases",
   "steps": [
-    "page.checkboxes",
+    "page.new-world",
     "page.primate-differences",
+    "page.gibbon",
+    "page.gibbon-secret",
     "page.check",
     "page.confirmation"
   ],
